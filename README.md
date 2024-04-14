@@ -2,7 +2,7 @@
 
 This is a front-end project for an ecommerce grocery shop website
 
-**Live site -** [https://e-grocery-shop.netlify.app/](https://e-grocery-shop.netlify.app/)
+**Live site -** [https://egrocerybydivisha.netlify.app/](https://egrocerybydivisha.netlify.app/)
 
 ## Preview
 ![img01](https://user-images.githubusercontent.com/83011210/228043559-4ddc4c2c-cece-4274-b0da-a9daa780bbf0.png)
